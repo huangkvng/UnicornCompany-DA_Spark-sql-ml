@@ -1,6 +1,7 @@
 # UnicornCompany-DA_Spark-sql-ml
 Unicorn Companies Valuation Prediction
 # 🦄 Unicorn Companies Valuation Prediction
+![Alt text](path_or_URL_to_image)
 
 ## Project Overview
 This project predicts the valuation of unicorn companies (private companies valued over $1B) using historical data on company characteristics, industry trends, investor information, and founding details.  
