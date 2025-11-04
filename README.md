@@ -1,5 +1,3 @@
-# UnicornCompany-DA_Spark-sql-ml
-Unicorn Companies Valuation Prediction
 # 🦄 Unicorn Companies Valuation Prediction
 ![Alt text](Gemini_Generated_Image_tegl9qtegl9qtegl.png)
 
